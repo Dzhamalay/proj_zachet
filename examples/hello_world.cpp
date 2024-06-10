@@ -11,7 +11,13 @@ public:
 };
 
 class Point_3d: public Point
-{}
+{
+public:
+	voit print()
+	{
+		std::cout << x << " " << y;
+	}
+}
 
 int main()
 {
