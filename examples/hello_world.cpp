@@ -24,6 +24,6 @@ int main()
 	std::cout<< "Please enter your name, i am asking you: ";
 	string name;
 	std::cin >> name;
-        std::cout << "Hello World from Los Angeles" << name << std::endl;
+        std::cout << "Hello World from New York" << name << std::endl;
         return 0;
 }
