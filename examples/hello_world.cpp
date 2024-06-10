@@ -10,6 +10,9 @@ public:
 	{}
 };
 
+class Point_3d: public Point
+{}
+
 int main()
 {
 	std::cout<< "Please enter your name, i am asking you: ";
