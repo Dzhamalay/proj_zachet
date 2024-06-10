@@ -1,6 +1,15 @@
 #include <iostream>
 #include <string>
 
+class Point
+{
+private:
+	int x, y;
+public:
+	Point(int x, int y) : x(x), y(y)
+	{}
+};
+
 int main()
 {
 	std::cout<< "Please enter your name, i am asking you: ";
