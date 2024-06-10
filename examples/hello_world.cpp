@@ -3,7 +3,7 @@
 
 int main()
 {
-	std::cout<< "Enter your name: ";
+	std::cout<< "Please enter your name, i am asking you: ";
 	string name;
 	std::cin >> name;
         std::cout << "Hello World from " << name << std::endl;
