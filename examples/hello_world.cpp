@@ -6,6 +6,6 @@ int main()
 	std::cout<< "Enter your name: ";
 	string name;
 	std::cin >> name;
-        std::cout << "Hello World from " << name << std::endl;
+        std::cout << "Hello World from Moscow" << name << std::endl;
         return 0;
 }
